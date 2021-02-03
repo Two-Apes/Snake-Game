@@ -24,6 +24,6 @@ Image:
 [How To Edit]
 1. Download the file (code -> download ZIP)
 2. Extract it
-3. Go to cpp-RandomPasswordGenerator/
-4. Run cpp-RandomPasswordGenerator.sln (I use Visual Studio 2019)
+3. Go to cpp-SnakeGame/
+4. Run cpp-SnakeGame.sln (I use Visual Studio 2019)
 
