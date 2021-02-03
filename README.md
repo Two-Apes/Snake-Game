@@ -18,8 +18,8 @@ Image:
 [How To Run]
 1. Download the file (code -> download ZIP)
 2. Extract it
-3. Go to cpp-RandomPasswordGenerator/Debug/
-4. Run cpp-RandomPasswordGenerator.exe
+3. Go to cpp-SnakeGame/Debug/
+4. Run cpp-SnakeGame.exe
 
 [How To Edit]
 1. Download the file (code -> download ZIP)
