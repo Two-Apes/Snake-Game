@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Github-Rep\cpp-SnakeGame\cpp-SnakeGame\Source.cpp(1,26): warning C4083: expected ')'; found identifier 'C26812'
+  cpp-SnakeGame.vcxproj -> D:\Github-Rep\cpp-SnakeGame\Debug\cpp-SnakeGame.exe
