@@ -1,11 +1,11 @@
 # Snake-Game
 A simple cpp Snake Game.
 
-Controls - 
--> W - up
--> A - Left
--> D - Right
--> S - Down
+Controls -                      
+-> W - up                 
+-> A - Left               
+-> D - Right              
+-> S - Down             
 
 Main -
 1. Game Screen
